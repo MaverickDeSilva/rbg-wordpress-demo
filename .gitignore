@@ -1,0 +1,10 @@
+# Never commit WordPress secrets or core files
+wp-config.php
+.env
+*.log
+# Local exports and archives
+*.zip
+*.tar.gz
+# OS clutter
+.DS_Store
+Thumbs.db
